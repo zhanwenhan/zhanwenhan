@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working as a Senior Experimentalist in computer science at the University of Electronic Science and Technology of China.
+- ✨ My research interests include cloud and edge computing, distributed systems, and AI applications.
+
 <!--
 **zhanwenhan/zhanwenhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
