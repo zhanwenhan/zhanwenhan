@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a Senior Experimentalist in computer science at the University of Electronic Science and Technology of China.
+- 🔭 I’m currently working as a Senior Experimentalist in computer science at UESTC.
 - ✨ My research interests include cloud and edge computing, distributed systems, and AI applications.
 
 <!--
